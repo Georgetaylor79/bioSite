@@ -5,7 +5,7 @@ A simple biography of the life of Lena Taylor
 
 ##Contributors
 <ui>
- <li> Instructor name
- <li> Student Name
- 
+ <li> <h2>Cristy Cross
+ <li> <h2>George Taylor 
+
 
