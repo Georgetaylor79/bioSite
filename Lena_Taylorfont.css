@@ -1,4 +1,7 @@
-html, body{
+html, 
+a:link {
+  color: darkorange}
+body{
     font-size:16px;
 }
 
