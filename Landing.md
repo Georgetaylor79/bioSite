@@ -1,1 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head> 
+        <title>BioSite of Lena Taylor </title></head>
+        <link rel="stylesheet" type="text/css" href ="Lena_Taylorfont.css">
+        <link href"https://fonts.google.com/css2?family=NanumGothic:weight@300;500;700&family=Sandoll:weight@400;700&display=sway"rel="stylesheet">
+        <body>
+            <h1 id="top">Welcome to the life biography of<strong>Lena Taylor</strong></h1>
+            <hr />
+        <p>
+            <h2> Lena Taylor</h2><br /> Born on the  15<sup>th</sup> of May<br />
+            In Jackson, Mississippi
+        </p>    
+        <p> Lena Taylor's Journey
+            <ul>
+                <li><a href ="Landing.html">Home<a/a></a></li>
+                <li><a href ="about.html">About</a></li>
+                <li><a href ="hobbies.html">Hobbies</a></li>
 
+            </ul>
+        </p>
+        <p> img src ="image/Landing Page Picture 1.jpg"alt"Lena" width = "744" height = "1074"align = "left"/>
+            Lena Taylor
+        </p>
+         <p> img src ="image/Landing Page Picture 2.jpg"alt"Farm" width = "668" height = "335"align = "left"/>
+            Mississippi Farm
+        </p>
+         <p> img src ="image/Landing Page Picture 3.jpg"alt"College" width = "1048" height = "978"align = "left"/>
+            Jackson State University
+        </p>
+        </body>  
+
+
+</html
